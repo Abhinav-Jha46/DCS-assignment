@@ -1,0 +1,25 @@
+## Visual Studio Build Artifacts
+**/bin/
+**/obj/
+[Bb]in/
+[Oo]bj/
+
+## User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Visual Studio Cache and Temporary Files
+.vs/
+*.tmp
+*.temp
+*.log
+
+## Storage files created at runtime (seeded copies)
+ServerStorage/PrintJobs/*.pdf
+ServerStorage/PrintJobs/*.docx
+ServerStorage/PrintJobs/*.xlsx
+ServerStorage/server.log
+TestHarness.exe
+DistributedPrintQueue.Shared.dll

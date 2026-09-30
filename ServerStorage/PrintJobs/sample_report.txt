@@ -1,0 +1,4 @@
+=== DISTRIBUTED COMPUTING SYSTEMS PROJECT REPORT ===
+Author: Student
+Topic: .NET Remoting Print Queue Management
+Status: Initial Demonstration Sample
